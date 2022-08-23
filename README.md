@@ -48,7 +48,7 @@ Our solutions has the following element:
 For the jupyter notebooks the output is the following:
 
 
-Task 1:
+Task 1: The fast algorithm
 
 
 For task 1 the jupyter notebook is  "OrbitaMX-Task1.ipynb" we have in the fist part the problem statement, where we construct the problem theory and we set the bases for what we will do in the next parts of the coding.

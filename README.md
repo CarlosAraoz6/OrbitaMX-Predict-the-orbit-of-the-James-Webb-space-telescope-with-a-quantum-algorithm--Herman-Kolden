@@ -2,11 +2,28 @@
 
 Womanium Quantum Hackathon 2022
 
+--------------------------------------------------------------------------------------------------
 
 Team: OrbitaMX
 
-Final members: 
+--------------------------------------------------------------------------------------------------
+Contributing Members: 
+
 Name: Carlos Aráoz Alvarado
+
 Discord ID: Carlos Aráoz#5582
+
+Github ID:86623402
+
+Contact email: carlosaraoz@ciencias.unam.mx
+
+Name: 
+Discord ID: 
+
 Github ID:
-Contact email:
+
+Contact email: 
+
+--------------------------------------------------------------------------------------------------
+Pitch Presenter on Demo Day: Carlos Aráoz Alvarado
+

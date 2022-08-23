@@ -44,9 +44,12 @@ Our solutions has the following element:
 1) A slide presentation in PDF format
 2) Jupyter notebooks with the implementation of a working quantum differential equation solver
 
+
 For the jupyter notebooks the output is the following:
 
+
 Task 1:
+
 
 For task 1 the jupyter notebook is  "OrbitaMX-Task1.ipynb" we have in the fist part the problem statement, where we construct the problem theory and we set the bases for what we will do in the next parts of the coding.
 
@@ -56,7 +59,11 @@ Finally, we join the code constructed and simulate the orbit of the James Webb s
 
 Note:Through the Jupyter notebook file there are several comments and notes for what we are doing. Also, we submit a PDF file of the Jupyter Notebook file named "OrbitaMX-Task1.pdf" for a better visual understanding in Gitgub.
 
+
+
 Task 2: Input encoding
+
+
 For task 2 the jupyter notebook is "OrbitaMX-Task2.ipynb".
 Here we begin by defining the functions that will be used to prepare the quantum state, and normalize it.
 
@@ -65,7 +72,10 @@ Then we perform the joined code to make a quantum circuit that prepares the inpu
 Note:Through the Jupyter notebook file there are some comments and notes for what we are doing. Also, we submit a PDF file of the Jupyter Notebook file named "OrbitaMX-Task2.pdf" for a better visual understanding in Gitgub.
 
 
+
+
 Task 3: Teleportation
+
 
 For task 3 the jupyter notebook is "OrbitaMX-Task3.ipynb".
 

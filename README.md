@@ -30,5 +30,5 @@ Contact email:
 Pitch Presenter on Demo Day: Carlos Aráoz Alvarado
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-Name of the Challenge:Predict-the-orbit-of-the-James-Webb-space-telescope-with-a-quantum-algorithm--Herman-Kolden
+Name of the Challenge:Predict the orbit of the James Webb space telescope with a quantum algorithm Herman Kolden
 ------------------------------------------------------------------------------------------------------------------------------------------------

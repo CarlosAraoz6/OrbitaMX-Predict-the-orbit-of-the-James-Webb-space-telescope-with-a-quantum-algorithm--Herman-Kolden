@@ -23,7 +23,7 @@ Name: Rodrigo Miqueo
 
 Discord ID: Gorodri#5990
 
-Github ID:
+Github ID: 111907575
 
 Contact email: rmiqueo@ciencias.unam.mx
 

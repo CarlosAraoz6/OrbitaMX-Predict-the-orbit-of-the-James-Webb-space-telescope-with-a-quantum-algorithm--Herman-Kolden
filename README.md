@@ -7,7 +7,7 @@ Womanium Quantum Hackathon 2022
 Team: OrbitaMX
 
 --------------------------------------------------------------------------------------------------
-Contributing Members: 
+Team members who contributed: 
 
 Name: Carlos Aráoz Alvarado
 
@@ -27,7 +27,7 @@ Github ID:
 
 Contact email: rmiqueo@ciencias.unam.mx
 
-Note: The other 3 members of the team OrbitaMX did not participate in any of the works presented here or the meetings to discuss each Task of the challenge. 
+Note: The other 3 members of the team OrbitaMX did not participate in any of the work presented here or the meetings to discuss each Task of the challenge. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 Pitch Presenter on Demo Day: Carlos Aráoz Alvarado

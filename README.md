@@ -46,7 +46,7 @@ Our solutions has the following element:
 1) A slide presentation in PDF format
 2) Jupyter notebooks with the implementation of a working quantum differential equation solver
 
-The slide presentation in PDF format named "Hackslides.pdf" contains the questions from Task 1 to Task 4 in 4 sections in the slides. From Task 1 to Task 3 we develop the answers for each set of questions and for the final Task (Task 4) we explore a practical application to a new problem using our current research about Supersymmetric classical cosmology. 
+The slide presentation in PDF format named "OrbitaMX-slides.pdf" contains the questions from Task 1 to Task 4 in 4 sections in the slides. From Task 1 to Task 3 we develop the answers for each set of questions and for the final Task (Task 4) we explore a practical application to a new problem using our current research about Supersymmetric classical cosmology. 
 
 
 

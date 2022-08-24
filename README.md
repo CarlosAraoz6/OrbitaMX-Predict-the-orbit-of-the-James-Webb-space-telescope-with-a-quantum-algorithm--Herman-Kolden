@@ -89,3 +89,7 @@ In the fist part we consider the code from [https://qiskit.org/textbook/ch-appli
 Finally, we join our code of quantum teleportation +  our code to simulate the orbit of the James Webb telescope with the HHL quantum algorithm and we plot our results.
 
 Note:Through the Jupyter notebook file there are several comments and notes for what we are doing. Also, we submit a PDF file of the Jupyter Notebook file named "OrbitaMX-Task3.pdf" for a better visual understanding in Gitgub.
+
+Note: Some files need to be dowloaded in order to be viewed.
+
+PD: It was quite a challenging Hackathon challenge but we learned so much and had fun trying to solve it, thank you for everything.
